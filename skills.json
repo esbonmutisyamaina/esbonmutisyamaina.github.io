@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Excel",
+        "icon": "https://img.icons8.com/?size=100&id=13654&format=png&color=000000"
+    },
+    {
+        "name": "Python",
+        "icon": "https://img.icons8.com/?size=100&id=13441&format=png&color=000000"
+    },
+    {
+        "name": "R",
+        "icon": "https://img.icons8.com/?size=100&id=CLvQeiwFpit4&format=png&color=000000"
+    },
+    {
+        "name": "Power BI",
+        "icon": "https://img.icons8.com/?size=100&id=3sGOUDo9nJ4k&format=png&color=000000"
+    },
+    {
+        "name": "Powerpoint",
+        "icon": "https://img.icons8.com/?size=100&id=81726&format=png&color=000000"
+    },
+    {
+        "name": "Risk Management",
+        "icon": "https://img.icons8.com/?size=100&id=97mhymKZqQg7&format=png&color=000000"
+    } 
+]
