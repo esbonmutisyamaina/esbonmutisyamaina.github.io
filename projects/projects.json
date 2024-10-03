@@ -19,5 +19,16 @@
       "view": "https://drive.google.com/file/d/1aLGiH-cPeIN4jU257zcDtKW3chj6DgBZ/view?usp=drive_link",
       "code": "https://drive.google.com/file/d/1IHaKgDzA87XDWu3r1G0F9-sfss7Y7Pcm/view?usp=sharing"
     }
+  },
+
+  {
+    "name": "Esbon FemPredict",
+    "desc": "FemPredict is a Python web app for menstrual cycle tracking and pregnancy gender prediction. It utilizes the Shettles method to forecast baby gender based on cycle data. The app provides insights into fertile windows, safe days, and the next period, ensuring users have essential information about their reproductive health",
+    "image": "fempredict",
+    "category": "Predictive Analytics",
+   "links": {
+    "view": "https://esbonfempredict.streamlit.app/",
+    "code": "https://esbonfempredict.streamlit.app/"
+   }
   }
 ]
