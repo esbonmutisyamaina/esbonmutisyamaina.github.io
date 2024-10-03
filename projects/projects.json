@@ -1,7 +1,7 @@
 [
   {
     "name": "Beats by Dre Gen-Z Analysis",
-    "desc": "Comprehensive Gen-Z Consumer Insights and Market Intelligence Analysis for Beats by Dre.Presents an in-depth analysis of consumer trends and preferences within the audio industry.",
+    "desc": "Comprehensive Gen-Z Consumer Insights and Market Intelligence Analysis for Beats by Dre. Presents an in-depth analysis of consumer trends and preferences within the audio industry.",
     "image": "dre",
     "category": "Data Analytics",
     "links": {
@@ -12,7 +12,7 @@
 
   {
     "name": "Enhancing the Actuarial Student Experience in Kenya",
-    "desc": "A proposal made to The Actuarial Society of Kenya(TASK), on improving the Actuarial Students' Experience",
+    "desc": "A proposal made to The Actuarial Society of Kenya(TASK), on improving the Actuarial Students' Experience.",
     "image": "task",
     "category": "Blogs",
     "links": {
@@ -23,7 +23,7 @@
 
   {
     "name": "Esbon FemPredict",
-    "desc": "FemPredict is a Predictive Analytics Python web app for menstrual cycle tracking and (baby)pregnancy gender prediction",
+    "desc": "FemPredict is a Predictive Analytics Python web app for menstrual cycle tracking and (baby)pregnancy gender prediction.",
     "image": "fempredict",
     "category": "Predictive Analytics",
    "links": {
