@@ -23,7 +23,7 @@
 
   {
     "name": "Esbon FemPredict",
-    "desc": "FemPredict is a Python web app for menstrual cycle tracking and pregnancy gender prediction. It forecasts baby gender based on cycle data. The app provides meaningful female reproductive predictive insights",
+    "desc": "FemPredict is a Predictive Analytics Python web app for menstrual cycle tracking and (baby)pregnancy gender prediction",
     "image": "fempredict",
     "category": "Predictive Analytics",
    "links": {
