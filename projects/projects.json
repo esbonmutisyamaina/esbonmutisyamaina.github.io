@@ -27,8 +27,8 @@
     "image": "fempredict",
     "category": "Predictive Analytics",
    "links": {
-    "view": "https://esbonfempredict.streamlit.app/",
-    "code": "https://esbonfempredict.streamlit.app/"
+    "view": "https://huggingface.co/spaces/esbonmutisyamaina/FemPredict",
+    "code": "https://huggingface.co/spaces/esbonmutisyamaina/FemPredict"
    }
   }
 ]
