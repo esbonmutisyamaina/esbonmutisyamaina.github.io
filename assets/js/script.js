@@ -71,7 +71,7 @@ document.addEventListener('visibilitychange',
 
 // <!-- typed js effect starts -->
 var typed = new Typed(".typing-text", {
-    strings: ["Actuarial Modelling", "Finance & Investment", "Data Analytics", "Risk Management", "Insurance & Underwriting"],
+    strings: ["Actuarial Modelling", "Finance n Investment", "Data Analytics", "Risk Management", "Insurance n Underwriting"],
     loop: true,
     typeSpeed: 50,
     backSpeed: 25,
